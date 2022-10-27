@@ -49,14 +49,14 @@ params:
 
   # About
   disable_about: false  
-  descripe_l1_person: "Hii there! Myself **Rohan** and I am persuing my B.Tech in **DataScience** at **Jain University** having CGPA of **8.88**. I am very passionate about evergrowing technology especially in the field of DataScience and Web Devolopment."
+  descripe_l1_person: "Hii there! Myself **Rohan** and I am persuing my B.Tech in **DataScience** at **Jain University** having CGPA of **8.88**. I am very passionate about evergrowing technology especially in the field of DataScience and Devops..."
   descripe_l2_person: "### Real world capabilities"
   descripe_l3_person: "I believe Skills are the ability to perform certain tasks well. Some skills can be measured and you acquire them through deliberate effort, others are related to your personality traits. In other words, not all skills are created equal. That’s why we call some of them “hard” and others “soft”.**Hard skills** are the skills that I’ve acquired through deliberate effort. They can be learned, taught, and measured.My hard skills include: **HTML, CSS, Python, SQL, JavaScript, MachineLearning, C and others.**
   **Soft skills**, on the other hand, are closely tied to one’s personality traits. Some of my softskills are **leadership, communication, or other interpersonal skills**. As opposed to hard skills, soft skills cannot be easily taught. Examples of soft skills include: problem-solving, negotiating, multitasking, time management, presenting, and others."
   descripe_l4_person: "*You can find my works [here](#projects)* "
 
   skills:
-    - name: Python
+    - name: Python3
       percentage: 80
     - name: Flask 
       percentage: 80
@@ -67,23 +67,33 @@ params:
     - name: "CSS"
       percentage: 75
     - name: JavaScript
-      percentage: 70
+      percentage: 50
     - name: Machine Learning
       percentage: 80
-    - name: Tableu
+    - name: Deep Learning
       percentage: 80
     - name: SQL
       percentage: 80
     - name: Mongodb
       percentage: 70
+    - name: MLops
+      percentage: 70
+    - name: CI/CD pipelines
+      percentage: 70
+    - name: Dockers
+      percentage: 80
+    - name: Cloud Deployment automation
+      percentage: 80
 
   # Experience
   disable_experience: false
   experience:
-    - company: "Synapsica Healthcare"
+    - company: "Synapsica-Healthcare"
       role: "Software Engineer(AI) intern"
       startdate: "October 04 2022"
       enddate: "Ongoing"
+      featuredpoints:
+        - point: "Currently working on system development with MLops to build SOTA ML pipelines.."
     - company: "Valuecom-Infosolutions-pvt-ltd"
       role: "Software Developer Intern"
       startdate: "April 07 2022"
@@ -97,7 +107,7 @@ params:
       startdate: "Jan 18 2022"
       enddate: "April 16 2022"
       featuredpoints:
-        - point: "Solved an Industry level end to end machine learning project"
+        - point: "Solve an usecase on Industry level end to end machine learning project"
         - point: "ML project domain was with respect to Insurance"
         - point: "Used MLOPS(DVC pipeline) for building and deploying the model."
         - point: "Built CI/CD pipeline"
