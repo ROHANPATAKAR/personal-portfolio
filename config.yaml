@@ -32,7 +32,7 @@ params:
   profile_image: /images/profile.png
   name: "Rohan Patankar"
   namecolor: ffc107
-  profession: "MLOps Engineer"
+  profession: "Lead MLOps Engineer @tarang.ai(MLx)"
   github: "https://github.com/rohanpatankar926/"
   linkedin: "https://www.linkedin.com/in/rohan-patankar-2aa707213/"
   twitter: "https://twitter.com/Rohan20075428"
@@ -49,10 +49,9 @@ params:
 
   # About
   disable_about: false  
-  descripe_l1_person: "Hii there! Myself **Rohan** and I am persuing my B.Tech in **DataScience** at **Jain University** having CGPA of **8.88**. I am very passionate about evergrowing technology especially in the field of DataScience and Devops..."
+  descripe_l1_person: "Hii there! Myself **Rohan** and As an MLOps specialist,Expert ML/DL Engineer and MLOps Specialist: Leveraging Advanced Technologies for Optimal Results. With a deep passion for Machine Learning (ML), Deep Learning (DL), and MLOps, I am an accomplished engineer skilled in harnessing the power of modern web technologies to build exceptional websites. My expertise extends beyond aesthetics and functionality; I have a comprehensive understanding of ML and DL algorithms, frameworks, and techniques that enable me to create intelligent systems capable of analyzing vast amounts of data and delivering accurate predictions."
   descripe_l2_person: "### Real world capabilities"
-  descripe_l3_person: "I believe Skills are the ability to perform certain tasks well. Some skills can be measured and you acquire them through deliberate effort, others are related to your personality traits. In other words, not all skills are created equal. That’s why we call some of them “hard” and others “soft”.**Hard skills** are the skills that I’ve acquired through deliberate effort. They can be learned, taught, and measured.My hard skills include: **HTML, CSS, Python, SQL, JavaScript, MachineLearning, C and others.**
-  **Soft skills**, on the other hand, are closely tied to one’s personality traits. Some of my softskills are **leadership, communication, or other interpersonal skills**. As opposed to hard skills, soft skills cannot be easily taught. Examples of soft skills include: problem-solving, negotiating, multitasking, time management, presenting, and others."
+  descripe_l3_person: "I excel in designing and implementing robust ML infrastructure and automation pipelines. I leverage state-of-the-art tools and frameworks such as Docker, Kubernetes,git actions,Huggingface models,replicate models etc to optimize workflows, ensuring scalability and reproducibility of ML processes. My ability to seamlessly integrate ML solutions into existing systems empowers organizations to embrace the full potential of their data, gaining a competitive edge in today's rapidly evolving market.If you are seeking a skilled ML/DL engineer and MLOps expert who can deliver exceptional results, I am confident in my ability to drive your organization's success through innovative technologies and data-driven solutions. Let's collaborate and unlock the power of ML and DL for your business"
   descripe_l4_person: "*You can find my works [here](#projects)* "
 
   skills:
@@ -66,8 +65,6 @@ params:
       percentage: 90
     - name: "CSS"
       percentage: 75
-    - name: JavaScript
-      percentage: 50
     - name: Machine Learning
       percentage: 80
     - name: Deep Learning
@@ -76,7 +73,7 @@ params:
       percentage: 80
     - name: Mongodb
       percentage: 70
-    - name: MLops
+    - name: MLoperations
       percentage: 70
     - name: CI/CD pipelines
       percentage: 70
@@ -84,14 +81,24 @@ params:
       percentage: 80
     - name: Cloud Deployment automation
       percentage: 80
+    - name: LLMops
+      percentage: 80
+    - name: VectorDBs
+      percentage:80
 
   # Experience
   disable_experience: false
   experience:
+    - company: "Tarang.ai(MLx)"
+      role: "Lead MLops engineer"
+      startdate: "April 19 2023"
+      enddate: "Ongoing"
+      featuredpoints:
+        - point: "As the Lead MLops Engineer at Tarang.ai(MLx) since April 19, 2023, I have been at the forefront of system development, focusing on building state-of-the-art (SOTA) ML pipelines.My expertise spans a wide range of areas, including working extensively with LLN models such as GPT and BERT models, implementing stable diffusion models, and ensuring seamless deployment of ML systems. I have a strong background in backend development, enabling efficient data processing and integration, as well as expertise in NoSQL databases for handling large volumes of data in ML workflows.Furthermore, I have a proven track record in building robust CI/CD pipelines, automating key processes in model training, evaluation, and deployment. Through my work, I strive to deliver impactful results, optimizing model performance, scalability, and reliability.With my comprehensive skill set and experience, I am dedicated to driving innovation, operational excellence, and tangible business outcomes through ML and DL engineering coupled with MLOps practices."
     - company: "Synapsica-Healthcare"
       role: "Software Engineer(AI) intern"
       startdate: "October 04 2022"
-      enddate: "Ongoing"
+      enddate: "April 18 2023"
       featuredpoints:
         - point: "Currently working on system development with MLops to build SOTA ML pipelines.."
     - company: "Valuecom-Infosolutions-pvt-ltd"
