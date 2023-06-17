@@ -84,7 +84,7 @@ params:
     - name: LLMops
       percentage: 80
     - name: VectorDBs
-      percentage:80
+      percentage: 80
 
   # Experience
   disable_experience: false
