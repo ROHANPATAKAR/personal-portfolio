@@ -75,7 +75,7 @@ params:
       percentage: 70
     - name: "Deep Learning"
       percentage: 80
-    - name: "SQL
+    - name: "SQL"
       percentage: 80
     - name: Mongodb
       percentage: 70
