@@ -32,7 +32,7 @@ params:
   profile_image: /images/profile.png
   name: "Rohan Patankar"
   namecolor: ffc107
-  profession: "Lead MLOps Engineer @tarang.ai(MLx)"
+  profession: "ML Backend Engineer @convin.ai && Lead MLOps Engineer @tarang.ai(MLx)"
   github: "https://github.com/rohanpatankar926/"
   linkedin: "https://www.linkedin.com/in/rohan-patankar-2aa707213/"
   twitter: "https://twitter.com/Rohan20075428"
@@ -67,6 +67,12 @@ params:
       percentage: 75
     - name: Machine Learning
       percentage: 80
+    - name: Kubernetes
+      percentage: 70
+    - name: Backend Web Development
+      percentage: 90
+    - name: Azure,Oracle,GCP,AWS Stack
+      name: 70
     - name: Deep Learning
       percentage: 80
     - name: SQL
@@ -89,6 +95,13 @@ params:
   # Experience
   disable_experience: false
   experience:
+    - company: "Convin.ai"
+      role: ML Backend Engineer
+      startdate: "September 11 2023"
+      enddate: "Ongoing"
+      featuredpoints:
+        - points: "Building and maintaining robust GPT application and services for the product.
+        - points: "Handling the Dev-Operations side of deploying the deep learning and clustering models into kubernetes cluster"
     - company: "Tarang.ai(MLx)"
       role: "Lead MLops engineer"
       startdate: "April 19 2023"
