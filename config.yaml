@@ -100,7 +100,7 @@ params:
       startdate: "September 11 2023"
       enddate: "Ongoing"
       featuredpoints:
-        - points: "Building and maintaining robust GPT application and services for the product.
+        - points: "Building and maintaining robust GPT application and services for the product."
         - points: "Handling the Dev-Operations side of deploying the deep learning and clustering models into kubernetes cluster"
     - company: "Tarang.ai(MLx)"
       role: "Lead MLops engineer"
