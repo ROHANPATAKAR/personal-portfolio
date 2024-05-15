@@ -57,18 +57,16 @@ params:
   skills:
     - name: Python3
       percentage: 80
-    - name: Flask 
+    - name: REST,GRPC api development
       percentage: 80
     - name: "Devops Engineering"
       percentage: 80
     - name: "LLm application development"
       percentage: 90
-    - name: "CSS"
+    - name: "Golang"
       percentage: 75
     - name: "Classical Machine Learning"
       percentage: 80
-    - name: "Kubernetes"
-      percentage: 70
     - name: "Backend Engineering"
       percentage: 90
     - name: "Azure,Oracle,GCP,AWS Stack"
@@ -81,10 +79,6 @@ params:
       percentage: 70
     - name: MLops Engineering
       percentage: 70
-    - name: CI/CD pipelines
-      percentage: 70
-    - name: Docker
-      percentage: 80
     - name: Vector Database
       percentage: 80
 
