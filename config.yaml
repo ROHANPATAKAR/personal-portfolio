@@ -32,7 +32,7 @@ params:
   profile_image: /images/profile.png
   name: "Rohan Patankar"
   namecolor: ffc107
-  profession: "ML Backend Engineer @convin.ai && Lead MLOps Engineer @tarang.ai(MLx)"
+  profession: "Senior MLOps Engineer @ skima.ai && Lead MLOps Engineer @tarang.ai(MLx)"
   github: "https://github.com/rohanpatankar926/"
   linkedin: "https://www.linkedin.com/in/rohan-patankar-2aa707213/"
   twitter: "https://twitter.com/Rohan20075428"
@@ -59,17 +59,17 @@ params:
       percentage: 80
     - name: Flask 
       percentage: 80
-    - name: Django
+    - name: "Devops Engineering"
       percentage: 80
-    - name: "HTML"
+    - name: "LLm application development"
       percentage: 90
     - name: "CSS"
       percentage: 75
-    - name: "Machine Learning"
+    - name: "Classical Machine Learning"
       percentage: 80
     - name: "Kubernetes"
       percentage: 70
-    - name: "Backend Web Development"
+    - name: "Backend Engineering"
       percentage: 90
     - name: "Azure,Oracle,GCP,AWS Stack"
       percentage: 70
@@ -79,17 +79,13 @@ params:
       percentage: 80
     - name: Mongodb
       percentage: 70
-    - name: ML-operations
+    - name: MLops Engineering
       percentage: 70
     - name: CI/CD pipelines
       percentage: 70
-    - name: Dockers
+    - name: Docker
       percentage: 80
-    - name: Cloud Deployment automation
-      percentage: 80
-    - name: LLMops
-      percentage: 80
-    - name: VectorDBs
+    - name: Vector Database
       percentage: 80
 
   # Experience
